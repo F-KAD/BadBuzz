@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.%20Projet%207-%20D%C3%A9tectez%20les%20Bad%20Buzz%20gr%C3%A2ce%20au%20Deep%20Learning/mlruns/566413001670606487/9d8702a57a794864a5a5ea13abdc505a/artifacts
+end_time: 1697634443615
+entry_point_name: ''
+experiment_id: '566413001670606487'
+lifecycle_stage: active
+run_id: 9d8702a57a794864a5a5ea13abdc505a
+run_name: Bernouilli_optimisé
+run_uuid: 9d8702a57a794864a5a5ea13abdc505a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697634439815
+status: 3
+tags: []
+user_id: kfaiz

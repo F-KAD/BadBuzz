@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.%20Projet%207-%20D%C3%A9tectez%20les%20Bad%20Buzz%20gr%C3%A2ce%20au%20Deep%20Learning/mlruns/908118756076392185/126b2c4914eb4f3e9c48a1419ed55bc8/artifacts
+end_time: 1697638002024
+entry_point_name: ''
+experiment_id: '908118756076392185'
+lifecycle_stage: active
+run_id: 126b2c4914eb4f3e9c48a1419ed55bc8
+run_name: LSTM_Glove
+run_uuid: 126b2c4914eb4f3e9c48a1419ed55bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697637928523
+status: 3
+tags: []
+user_id: kfaiz
